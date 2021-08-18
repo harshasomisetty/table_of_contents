@@ -1,0 +1,73 @@
+1 BASIS REPRESENTATION 11
+    Principle of Mathematical Induction 11
+    The Basis Representation Theorem 16
+
+2 THE FUNDAMENTAL THEOREM OF ARITHMETIC 20
+    Euclids Division Lemma 20
+    Divisibility 23
+    The Linear Diophantine Equation 31
+    The Fundamental Theorem of Arithmetic 34
+
+3 COMBINATORIAL AND COMPUTATIONAL NUMBER THEORY 38
+    Permutations and Combinations 38
+    Fermats Little Theorem 44
+    Wilsons Theorem 46
+    Generating Functions 48
+    The Use of Computers in Number Theory 52
+
+4 FUNDAMENTALS OF CONGRUENCES 57
+    Basic Properties of Congruences 57
+    Residue Systems 60
+    Riftiling 64
+
+5 SOLVING ONGRUENCES 66
+    Linear Congruences 66
+    The Theorems of Fermat and Wilson Revisited 69
+    The Chinese Remainder Theorem 74
+    Polynomial Congruences 79
+
+6 ARITHMETIC FUNCTIONS 83
+    Combinatorial Study of o(n) 83
+    Formulae for d(n)and o(n) 90
+    Multiplicative Arithmetic Functions 93
+    The Mobius Inversion Formula 94
+
+7 PRIMITIVE ROOTS 101
+    Properties of Reduced Residue Systems 101
+    Primitive Roots Modulo p 105
+
+8 PRIME NUMBERS 108
+    Elementary Properties of m(x) 108
+    Tchebychev's Theorem 114
+    Some Unsolved Problems About Primes 119
+
+9 QUADRATIC RESIDUES 123
+    Eulers Criterion 123
+    The Legendre Symbol 125
+    The Quadratic Reciprocity Law 126
+    Applications of the Quadratic Reciprocity Law 133
+
+10 DISTRIBUTION OF QUADRATIC RESIDUES 136
+    Consecutive Residues and Nonresidues 136
+    Consecutive Triples of Quadratic Residues 141
+
+12 ELEMENTARY PARTITION THEORY 157
+    Introduction 157
+    Graphical Representation 158
+    Eulers Partition Theorem 162
+    Searching for Partition Identities 163
+
+13 PARTITION GENERATING FUNCTIONS 168
+    Infinite Products As Generating Functions 168
+    Identities Between Infinite Series and Products 175
+
+14 PARTITION IDENTITIES 183
+    History and Introduction 183
+    Pentagonal Number Theorem 184
+    The Rogers-ramanujan Identities 187
+    Series and Products Identities 196
+    Schur's Theorem 198
+
+15 LATTICE POINTS 209
+    Gausss Circle Problem 209
+    15-2 Dirichlet's Divisor Problem 215

@@ -1,0 +1,38 @@
+13 Introduction to Greedy Algorithms 14
+ The Greedy Algorithm Design Paradigm 14
+ A Scheduling Problem 17
+ Developing a Greedy Algorithm 19
+ Proof of Correctness 25
+
+14 Huffman Codes 36
+ Codes 36
+ Codes as Trees 41
+ Huffman’s Greedy Algorithm 45
+ Proof of Correctness 41 Problems 62
+
+15 Minimum Spanning Trees 65
+ Problem Definition 65
+ Prim’s Algorithm 70
+ Speeding Up Prim’s Algorithm via Heaps 75
+ Prim’s Algorithm: Proof of Correctness 82
+ Kruskal’s Algorithm 89
+ Speeding Up Kruskal’s Algorithm via Union-Find 94
+ Kruskal’s Algorithm: Proof of Correctness 104
+ Application: Single-Link Clustering 94 Problems 112
+
+16 Introduction to Dynamic Programming 116
+ The Weighted Independent Set Problem 117
+ A Linear-Time Algorithm for WIS in Paths 121
+ A Reconstruction Algorithm 129
+ The Principles of Dynamic Programming 131
+ The Knapsack Problem 136
+
+17 Advanced Dynamic Programming 150
+ Sequence Alignment 150
+ Optimal Binary Search Trees 161
+
+18 Shortest Paths Revisited 180
+ Shortest Paths with Negative Edge Lengths 180
+ The Bellman-Ford Algorithm 185
+ The All-Pairs Shortest Path Problem 198
+ The Floyd-Warshall Algorithm 200
